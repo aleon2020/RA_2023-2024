@@ -22,8 +22,6 @@ Directorio 'Prácticas de Laboratorio': Este directorio contiene cada una de las
 
 Directorio 'Problemas': Este directorio contiene cada uno de los problemas entregables realizados en la asignatura.
 
-Y el examen final comprende todo el temario visto en los módulos III y IV, donde el contenido de ambos módulos no se encuentra dividido en 2 partes como en el examen parcial. Este examen está compuesto por 20 preguntas tipo test, una pregunta teórica correspondiente a la teoría del Filtro de Kalman, y un problema relativo al Filtro de Kalman en el que deben realizarse pequeños cálculos.
-
 ## 4. Criterios de calificación
 
 Ya que esta asignatura está compuesta por varios bloques de temario con poca relación entre sí, se especifica a continuación el valor que tiene cada uno de los exámenes, prácticas y problemas a lo largo de la asignatura:
