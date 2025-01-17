@@ -6,6 +6,20 @@ A continuación se detallan brevemente todos los contenidos que se encuentran en
 
 IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
 
+Clona este repositorio ejecutando el siguiente comando:
+
+```sh
+git clone https://<token>@github.com/aleon2020/RA_2023-2024.git
+```
+
+IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+
+Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+
+```sh
+git pull
+```
+
 ## 1. Resumenes de los contenidos de teoría
 
 Ficheros 'Resumen Teoría Módulo X RA.pdf': Resumen de teoría de cada uno de los módulos que componen el temario de la asignatura en formato PDF.
